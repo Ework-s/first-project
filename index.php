@@ -1,5 +1,5 @@
 <?php
-include_once('settings.php');
+include_once('config.php');
 echo '<html>
 <head>
 <title>'.$setting['title'].'</title>
