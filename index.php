@@ -1,10 +1,12 @@
 <?php
+include_once('settings.php');
 echo '<html>
 <head>
-<title>Main Page</title>
+<title>'.$setting['title'].'</title>
 </head>
 <body>
 <p>New text</p>
+<p>'.$setting['text'].'</p>
 </body>
 </html>';
 ?>
