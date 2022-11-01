@@ -1,6 +1,7 @@
 <?php
 $setting = array(
 'title' => 'Заголовок',
-'text' => 'Текст'
+'text' => 'Текст',
+'parametr' => 'Новая единица'
 );
 ?>
