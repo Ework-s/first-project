@@ -4,7 +4,7 @@ echo '<html>
 <title>Main Page</title>
 </head>
 <body>
-<p>Text here...</p>
+<p>New text</p>
 </body>
 </html>';
 ?>
